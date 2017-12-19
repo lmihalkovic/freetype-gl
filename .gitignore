@@ -47,3 +47,4 @@ Makefile
 libfreetype-gl.a
 makefont
 /build
+.build
